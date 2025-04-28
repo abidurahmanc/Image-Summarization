@@ -7,16 +7,6 @@ This repository contains two implementations of image captioning using deep lear
 ## Table of Contents
 - [Project Overview](#project-overview)
 - [Features](#features)
-- [Repository Structure](#repository-structure)
-- [Prerequisites](#prerequisites)
-- [Installation](#installation)
-- [Usage](#usage)
-  - [Streamlit App](#streamlit-app)
-  - [Transformer Model](#transformer-model)
-- [Known Issues](#known-issues)
-- [Contributing](#contributing)
-- [License](#license)
-- [Acknowledgments](#acknowledgments)
 
 ## Project Overview
 
